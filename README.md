@@ -1,2 +1,2 @@
 # eZed7.github.io
-INITIAL
+INITIAL COMMIT
